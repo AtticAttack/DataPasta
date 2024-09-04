@@ -1,0 +1,17 @@
+C:\Users\barda\source\repos\DataPasta\DataPasta\bin\Debug\net7.0-windows\DataPasta.exe
+C:\Users\barda\source\repos\DataPasta\DataPasta\bin\Debug\net7.0-windows\DataPasta.deps.json
+C:\Users\barda\source\repos\DataPasta\DataPasta\bin\Debug\net7.0-windows\DataPasta.runtimeconfig.json
+C:\Users\barda\source\repos\DataPasta\DataPasta\bin\Debug\net7.0-windows\DataPasta.dll
+C:\Users\barda\source\repos\DataPasta\DataPasta\bin\Debug\net7.0-windows\DataPasta.pdb
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.vbproj.GenerateResource.cache
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.AssemblyInfoInputs.cache
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.AssemblyInfo.vb
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.vbproj.CoreCompileInputs.cache
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.dll
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\refint\DataPasta.dll
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.pdb
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.genruntimeconfig.cache
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\ref\DataPasta.dll
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.DataPastaForm.resources
+C:\Users\barda\source\repos\DataPasta\DataPasta\obj\Debug\net7.0-windows\DataPasta.Resources.resources
