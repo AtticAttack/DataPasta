@@ -5,6 +5,6 @@ Are you frustrated by password fields that prevent pasting in a password, in a m
 
 Additionally, it can aid in transferring files over channels that only allow keystrokes, by typing in the contents of a text file, or even base64 encoding a file and typing out the results for you.  Some data loss prevention tools that monitor data pasted from the clipboard do not monitor data entered as keystrokes.  Data Pasta can be used by security blue teams  to assess the vulnerability of their controls in this regard, and by pen testers to demonstrate the vulnerability.
 
-DataPasta has a compact user interface which appears unobtrusively at the bottom right of the screen, above the system tray (and can be minimised to the system tray).  It has only 3 buttons - type clipboard, type text file, and base64 encode and type file (ok, and yes, for the pedants, a forth button to minimise!).
+DataPasta has a compact user interface which appears unobtrusively at the bottom right of the screen, above the system tray.  It has only 3 buttons - type clipboard, type text file, and base64 encode and type file (ok, and yes, for the pedants, a forth button to minimise it to the system tray!).
 
 ![Datapasta](https://github.com/user-attachments/assets/a4a0b495-12fa-4286-b507-bbe6f3b9798e)
